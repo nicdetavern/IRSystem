@@ -8,7 +8,7 @@ In command prompt change the directory to the unzipped file(s) location. If you 
 cd /D drive_letter_here:\folder_here\ ...\IRSystem\
 Compile then run the Assignment2.java file, ensure either the provided data folder(alldocs) is present in the IRSystem directory or provide your own data(in the IRSystem directory). \
 The compile command is: javac Assignment2.java\
-The run command is: java Assignment2.java\
+The run command is: java Assignment2.java
 
 **LIMITATIONS**
 
